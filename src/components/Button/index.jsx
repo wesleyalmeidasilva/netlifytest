@@ -8,7 +8,6 @@ export class Button extends Component {
     
     return (
       <button 
-      disabled 
       className='button' 
       onClick={onClick}
       disabled={disabled}
